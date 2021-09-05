@@ -1,3 +1,3 @@
 # NST_PyTorch
-Implementation of https://arxiv.org/abs/1508.06576
+Implementation of https://arxiv.org/abs/1508.06576 in PyTorch
 
